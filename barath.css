@@ -1,0 +1,93 @@
+/* Reset some default styles */
+body, h1, h2, p, header {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #750d0d;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    background-color: #5e5e5e;
+    color: white;
+    padding: 10px;
+}
+
+header h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+header img {
+    max-width: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#about {
+    text-align: left;
+}
+
+#about h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    color: #000000;
+}
+
+
+
+#interests{
+    font-size: 18px;
+    line-height: 1.5;
+    color: #555;
+}
+
+
+p{
+    font-size: 18px;
+    line-height: 1.5;
+    color: #555;
+}
+#skills{
+    font-size: 18px;
+    line-height: 1.5;
+    color: #555;
+}
+
+h2{
+    color: #000000;
+}
+
+#contact {
+    text-align: left;
+}
+
+#contact h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+#contact p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #555;
+}
+
+footer{
+    background-color: ;
+}
+/* Add additional styles as needed */
